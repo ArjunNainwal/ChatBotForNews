@@ -1,0 +1,6 @@
+https://newsapi.org/v2/everything?q=bitcoin&from=2020-07-17&sortBy=publishedAt&apikey=9333d767b8e846bb8b33190fe4f63df7
+
+chatbot.uipath.com
+project id : newschatagent-iclo
+service account : dialogflow-jcfcjb@newschatagent-iclo.iam.gserviceaccount.com
+private key : 
